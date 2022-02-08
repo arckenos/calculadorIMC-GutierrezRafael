@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">asignacion04_calculadoraIMC</string>
+
+    <string name="sAltura">Altura</string>
+    <string name="sPeso">Peso</string>
+    <string name="sBoton">Calcular IMC</string>
+
+</resources>
+
